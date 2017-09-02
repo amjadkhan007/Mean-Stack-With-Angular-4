@@ -1,0 +1,29 @@
+{
+  "name": "mean-angular-4",
+  "version": "1.0.0",
+  "description": "MEAN Stack With Angular 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amjadkhan007/Mean-Stack-With-Angular-4.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular4"
+  ],
+  "author": "Amjad Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amjadkhan007/Mean-Stack-With-Angular-4/issues"
+  },
+  "homepage": "https://github.com/amjadkhan007/Mean-Stack-With-Angular-4#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.9"
+  }
+}
